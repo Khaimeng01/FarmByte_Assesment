@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 2. Navigate to the project directory
 
 3. Install dependecies
-   npm install
+- npm install
 
 4. Start the Application
-   npm run dev/ npm start
+- npm run dev/ npm start
